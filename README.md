@@ -62,8 +62,8 @@ Built for cybersecurity professionals, penetration testers, and ethical hackers 
 ## ⚡ Quick Start
 
 ```bash
-git clone <YOUR_REPO_URL>
-cd <repo-folder>
+git clone Team0098/IG-T98-OSINT-PRO-
+cd IG-T98-OSINT-PRO-
 python instarecon.py -u target_username -s your_session_id
 ```
 
@@ -96,8 +96,8 @@ flowchart LR
 
 1. **Clone the repository**
    ```bash
-   git clone <YOUR_REPO_URL>
-   cd <repo-folder>
+   git clone Team0098/IG-T98-OSINT-PRO-
+   cd IG-T98-OSINT-PRO-
    ```
 
 2. **Run the tool** (dependencies will auto-install)
